@@ -1,7 +1,7 @@
 import logo from './logo.svg'
 import styles from './app.module.css'
-import PropTypes from 'prop-types'
-import { useState } from 'react'
+// import PropTypes from 'prop-types'
+// import { useState } from 'react'
 
 export const App = () => {
 	return (
